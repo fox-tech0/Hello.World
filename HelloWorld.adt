@@ -1,0 +1,8 @@
+program Project1;
+uses
+qdialogs;
+const
+   s = 'Hello World';
+begin
+   showmessage(s);
+end.

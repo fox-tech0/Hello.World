@@ -1,1 +1,1 @@
-TrayTip,, Hello World!
+Msgbox Hello, World!

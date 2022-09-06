@@ -38,3 +38,4 @@ Hello World is a beginner statement for people learning to code.
 [Swift](https://raw.githubusercontent.com/fox-tech0/Hello.World/main/HelloWorld.swift)<br>
 [TI-BASIC](https://raw.githubusercontent.com/fox-tech0/Hello.World/main/HelloWorld.ti)<br>
 [Cobol](https://raw.githubusercontent.com/fox-tech0/Hello.World/main/HelloWorld.cbl)<br>
+[Smalltalk (Windowed)](https://raw.githubusercontent.com/fox-tech0/Hello.World/main/HelloWorld.window.st)<br>
